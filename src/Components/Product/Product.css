@@ -1,0 +1,23 @@
+.product {
+    display: flex;
+    flex-direction: column;
+    height: 274px;
+    width: 350px;
+    background-color: #d34735;
+    border-radius: 7px;
+    border: 0px;
+    margin-top: 20px;
+}
+
+.product-img {
+    margin-left: 4%;
+    margin-top: 4%;
+    height: 200px;
+    width: 320px;
+}
+
+.product-txt {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

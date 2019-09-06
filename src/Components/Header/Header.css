@@ -1,0 +1,19 @@
+#title {
+    margin-left: 1vw;
+    font-family: "open-sans", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+#shelfie-img {
+    margin-left: 5vw;
+}
+
+header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 10.5vh;
+    background-color: #ab2a19;
+    color: whitesmoke;
+}
